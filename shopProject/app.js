@@ -10,7 +10,7 @@ const errorController = require('./controllers/error');
 const app = express();
 
 app.set('view engine', 'ejs');
-app.set('views', 'CSE341_NodeJS/readingProject/views'); 
+app.set('views', 'CSE341_NodeJS/shopProject/views'); 
 
 const adminRoutes = require('./routes/admin');
 const shopRoutes = require('./routes/shop');
