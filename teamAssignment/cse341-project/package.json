@@ -14,8 +14,10 @@
     "ejs": "^2.5.6",
     "express": "^4.17.1",
     "express-handlebars": "^3.0.2",
+    "fs": "*",
     "nodemon": "^2.0.7",
-    "pug": "^3.0.2"
+    "pug": "^3.0.2",
+    "underscore": "^1.13.1"
   },
   "devDependencies": {
     "request": "^2.81.0",
